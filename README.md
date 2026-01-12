@@ -3,6 +3,9 @@
 # Zenodo link: 
 
 # CGoT Pipeline
+- CGoT pipeline: follow `tasks/` task1-task5, inference each case using CGoT pipeline
+- Task evaluation: follow `eval/` task1-task5, evaluate each task immediately
+
 
 
 
