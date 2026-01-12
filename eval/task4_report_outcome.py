@@ -9,8 +9,8 @@ mode = '62'
 
 task4_ans_dir = '../data/answers/task4/both/'
 cur_ans_pattern = f'example_flash_1_5_flash_001_task4_{mode}_math_v_outcome_'
-mgh_train_label = '../data/dataset/13690270/mgh_train.npy'
-mgh_test_label = '../data/dataset/BONBID-HIE-part2/MICCAI2024_Test/outcome/mgh_test.npy'
+mgh_train_label = '../data/dataset/outcome/train.npy'
+mgh_test_label = '../data/dataset/outcome/test.npy'
 
 task4_ans_list = os.listdir(task4_ans_dir)
 cur_ans_task4_ans_list = [file for file in task4_ans_list if cur_ans_pattern in file and 'report' not in file]
