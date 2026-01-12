@@ -1,6 +1,7 @@
 # Visual and Domain Knowledge for Professional-level Graph-of-Thought Medical Reasoning (ICML 2025 Spotlight)
 # HIE-Reasoning Benchmark Download
 # Zenodo link: 
+- To be added
 
 # CGoT Pipeline
 - CGoT pipeline: follow `tasks/` task1-task5, inference each case using CGoT pipeline
