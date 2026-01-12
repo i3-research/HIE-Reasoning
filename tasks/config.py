@@ -13,8 +13,8 @@ test_input_dir = os.path.join(dataset_dir, 'dataset', 'Test')
 global_vis_path = os.path.join(dataset_dir, 'visualization')
 global_ans_path = os.path.join(dataset_dir, 'answers')
 
-mgh_train_label = '../data/dataset/train.npy'
-mgh_test_label = '../data/dataset/test.npy'
+mgh_train_label = '../data/dataset/outcome/train.npy'
+mgh_test_label = '../data/dataset/outcome/test.npy'
 mgh_label = np.load(mgh_train_label)
 mgh_label_test = np.load(mgh_test_label)
 
