@@ -2,8 +2,6 @@
 
 ## HIE-Reasoning Benchmark Download
 
-- To be added
-
 ## Zenodo Link
 
 - To be added
