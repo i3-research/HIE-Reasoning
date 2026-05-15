@@ -4,7 +4,9 @@
 
 ## Zenodo Link
 
-- To be added
+Please download the dataset from 
+
+The file requires a password to unzip the dataset. Please complete the acknowledgment form on the Zenodo website and send it to us. We will then reply with the password.
 
 ## Usage
 
@@ -18,15 +20,15 @@ data/
 │   ├── HIEReasoning_Train/
 │   │   ├── 1ADC_ss/
 │   │   ├── 2Z_ADC/
-│   │   └── 3LABEL/
+│   │   
 │   ├── HIEReasoning_Val/
 │   │   ├── 1ADC_ss/
 │   │   ├── 2Z_ADC/
-│   │   └── 3LABEL/
+│   │   
 │   ├── HIEReasoning_Test/
 │   │   ├── 1ADC_ss/
 │   │   ├── 2Z_ADC/
-│   │   └── 3LABEL/
+│   │   
 │   ├── ROI/
 │   ├── ADCriolabel/
 │   │   └── 62ROIs_for_Children.txt
