@@ -6,7 +6,14 @@
 
 Please download the dataset from 
 
-The file requires a password to unzip the dataset. Please complete the acknowledgment form on the Zenodo website and send it to us. We will then reply with the password.
+For downloading the dataset, please first fill out the form:
+HIEReasoning_Dataset_Agreement.pdf
+
+Then, send the completed form to rina.bao@childrens.harvard.edu or yangming.ou@childrens.harvard.edu.
+
+The file requires a password to unzip the dataset. Please complete the acknowledgment form and send it to us. We will then reply with the password.
+
+
 
 ## Usage
 
